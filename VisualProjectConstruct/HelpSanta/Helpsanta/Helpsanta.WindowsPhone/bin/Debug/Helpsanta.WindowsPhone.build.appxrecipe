@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ULTRABOOK</Machine>
+    <WindowsUser>Michal</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1eaf92e8-c1a0-4c64-8bbd-2e4bdc5debaf</PackageIdentityName>
+    <IntermediateOutputPath>D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.WindowsPhone\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.WindowsPhone\index-phone.html">
+      <PackagePath>index-phone.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\channel.html">
+      <PackagePath>channel.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_150_150.png">
+      <PackagePath>asstes_images\help_150_150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_30_30.png">
+      <PackagePath>asstes_images\help_30_30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_310_150.scale-100.png">
+      <PackagePath>asstes_images\help_310_150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_310_310.scale-100.png">
+      <PackagePath>asstes_images\help_310_310.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_44_44.png">
+      <PackagePath>asstes_images\help_44_44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_480_800.png">
+      <PackagePath>asstes_images\help_480_800.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_50_50.png">
+      <PackagePath>asstes_images\help_50_50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_620_300.png">
+      <PackagePath>asstes_images\help_620_300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_70_70.scale-100.png">
+      <PackagePath>asstes_images\help_70_70.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\help_71_71.png">
+      <PackagePath>asstes_images\help_71_71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\asstes_images\logo_300_300.png">
+      <PackagePath>asstes_images\logo_300_300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\Logo.scale-100.png">
+      <PackagePath>images\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\SmallLogo.scale-100.png">
+      <PackagePath>images\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\bird-sheet0.png">
+      <PackagePath>images\bird-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\tiledbackground2.png">
+      <PackagePath>images\tiledbackground2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\background-sheet0.png">
+      <PackagePath>images\background-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\bottompipe-sheet0.png">
+      <PackagePath>images\bottompipe-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\tiledbackground3.png">
+      <PackagePath>images\tiledbackground3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\tiledbackground4.png">
+      <PackagePath>images\tiledbackground4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\tilemap.png">
+      <PackagePath>images\tilemap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\images\tiledbackground5.png">
+      <PackagePath>images\tiledbackground5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\data.js">
+      <PackagePath>data.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.Shared\jquery-2.1.1.min.js">
+      <PackagePath>jquery-2.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\NightOfTheLivingDevs\Source\slot1-gra\Dobre\VisualProjectConstruct\HelpSanta\Helpsanta\Helpsanta.WindowsPhone\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

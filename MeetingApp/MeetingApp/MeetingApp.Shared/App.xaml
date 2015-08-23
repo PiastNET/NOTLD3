@@ -1,0 +1,9 @@
+﻿<Application>
+    <x:Class="MeetingApp.MvvmAppBase"></x:Class>
+
+    <xmlns:x="using:App33.Controls"                                  ></xmlns:x>
+    <xmlns:x="using:Microsoft.Practices.Prism.Mvvm"                   ></xmlns:x>
+    <xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml/presentation"  ></xmlns:x>   <xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"      ></xmlns:x>
+  <xmlns="using:MeetingApp"></xmlns>
+
+</Application>
